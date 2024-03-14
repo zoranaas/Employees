@@ -1,0 +1,21 @@
+﻿<h1>Employees</h1>
+
+@model List<Employee>
+
+<table style="width:50%">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Total Time Worked
+        </th> 
+    </tr>
+    @foreach (var emp in Model)
+    {
+        <tr style='@(emp.TotalTimeWorked < 100 ? "background-color:hsl(5, 50%, 50%);" : "")'>
+            <td>@emp.EmployeeName</td>
+            <td>@emp.TotalTimeWorked hours</td>  
+        </tr>
+    }
+</table>
