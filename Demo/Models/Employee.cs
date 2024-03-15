@@ -1,7 +1,7 @@
 ﻿namespace Demo.Models
 {
     public class Employee
-    {
+    { 
         private string employeeName;
         private double totalTimeWorked;
         private DateTime starTimeUtc;

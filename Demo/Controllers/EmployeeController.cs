@@ -33,7 +33,9 @@ namespace Demo.Controllers
                                            TotalTimeWorked = totalHours,
 
                                        };
-                                   }).ToList();
+                                   })
+                                   .OrderByDescending(x=>x.TotalTimeWorked)
+                                   .ToList();
             return View(grouped);
         }
 

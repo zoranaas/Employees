@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sukur\\Desktop\\Demo (2)\\",
+  "WorkspaceRootPath": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|c:\\users\\sukur\\desktop\\demo (2)\\demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|c:\\users\\sukur\\desktop\\emplo\\employees\\demo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|solutionrelative:demo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|c:\\users\\sukur\\desktop\\emplo\\employees\\demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|solutionrelative:demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|c:\\users\\sukur\\desktop\\demo (2)\\demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|c:\\users\\sukur\\desktop\\emplo\\employees\\demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|c:\\users\\sukur\\desktop\\demo (2)\\demo\\controllers\\repository\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|c:\\users\\sukur\\desktop\\emplo\\employees\\demo\\controllers\\repository\\irepository\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\repository\\irepository\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|c:\\users\\sukur\\desktop\\emplo\\employees\\demo\\controllers\\repository\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E115F5FE-5502-4D11-A4BC-F994F73417D2}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\repository\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Controllers\\Repository\\IRepository\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\Repository\\IRepository\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Controllers\\Repository\\IRepository\\IEmployeeService.cs",
+              "RelativeToolTip": "Demo\\Controllers\\Repository\\IRepository\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:06:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:00:24.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Demo\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Models\\Employee.cs",
               "RelativeToolTip": "Demo\\Models\\Employee.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T09:12:32.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Controllers\\Repository\\EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Controllers\\Repository\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Demo\\Controllers\\Repository\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Controllers\\Repository\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Controllers\\Repository\\EmployeeService.cs",
               "RelativeToolTip": "Demo\\Controllers\\Repository\\EmployeeService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T08:38:57.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Demo\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Demo\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAvAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwCQAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T18:27:19.018Z",
               "EditorCaption": ""

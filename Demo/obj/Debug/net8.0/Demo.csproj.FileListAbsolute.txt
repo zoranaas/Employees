@@ -71,3 +71,42 @@ C:\Users\sukur\Desktop\Demo (2)\Demo\obj\Debug\net8.0\ref\Demo.dll
 C:\Users\sukur\Desktop\Demo (2)\Demo\bin\Debug\net8.0\LiveCharts.dll
 C:\Users\sukur\Desktop\Demo (2)\Demo\bin\Debug\net8.0\LiveCharts.WinForms.dll
 C:\Users\sukur\Desktop\Demo (2)\Demo\bin\Debug\net8.0\LiveCharts.Wpf.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\appsettings.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\Demo.staticwebassets.runtime.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\LiveCharts.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\LiveCharts.WinForms.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\LiveCharts.Wpf.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.csproj.AssemblyReference.cache
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.RazorAssemblyInfo.cache
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.RazorAssemblyInfo.cs
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\staticwebassets\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo.props
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo.props
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo.props
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\scopedcss\bundle\Demo.styles.css
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\scopedcss\projectbundle\Demo.bundle.scp.css
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.csproj.Up2Date
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\sukur\Desktop\Emplo\Employees\Demo\obj\Debug\net8.0\ref\Demo.dll

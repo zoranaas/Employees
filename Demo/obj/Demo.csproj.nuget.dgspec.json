@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Demo.csproj": {}
+    "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Demo.csproj": {
+    "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\sukur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sukur\\Desktop\\Demo (2)\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\sukur\\Desktop\\Emplo\\Employees\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sukur\\AppData\\Roaming\\NuGet\\NuGet.Config",
